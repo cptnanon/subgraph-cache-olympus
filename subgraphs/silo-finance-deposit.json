@@ -1,0 +1,12 @@
+{
+    "url": "https://gateway.thegraph.com/api/86cb68c78becc48a45a0e898f68aab9d/subgraphs/id/6rcT2GzBXGoi3ZMus92LHajM2b9qWGj7Z3dDhPxoUogB",
+    "object": "Deposit",
+    "dateField": "timestamp",
+    "typeOverrides": {
+        "nonce": "BIGNUMERIC",
+        "blockNumber": "BIGNUMERIC",
+        "timestamp": "TIMESTAMP",
+        "amount": "BIGNUMERIC",
+        "amountUSD": "BIGNUMERIC"
+    }
+}

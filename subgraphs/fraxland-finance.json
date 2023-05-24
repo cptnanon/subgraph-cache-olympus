@@ -1,0 +1,11 @@
+{
+    "url": "https://gateway.thegraph.com/api/86cb68c78becc48a45a0e898f68aab9d/subgraphs/id/GELTrjPJYEzxyp6Y2CtEaYpGHcJNrJA6i5Ci4KfJSEsf",
+    "object": "action",
+    "dateField": "timestamp",
+    "typeOverrides": {
+        "amount": "BIGNUMERIC",
+        "share": "BIGNUMERIC",
+        "block": "BIGNUMERIC",
+        "timestamp": "TIMESTAMP"
+    }
+}
