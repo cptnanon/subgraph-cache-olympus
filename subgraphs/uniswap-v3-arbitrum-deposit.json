@@ -1,0 +1,19 @@
+{
+    "url": "https://gateway.thegraph.com/api/86cb68c78becc48a45a0e898f68aab9d/subgraphs/id/8sE6rTNkPhzZXZC6c8UQy2ghFTu5PPdGauwUBm4t7HZ1",
+    "object": "Deposit",
+    "dateField": "timestamp",
+    "typeOverrides": {
+        "id": "STRING",
+        "hash": "STRING",
+        "nonce": "BIGNUMERIC",
+        "gasLimit": "BIGNUMERIC",
+        "gasUsed": "BIGNUMERIC",
+        "gasPrice": "BIGNUMERIC",
+        "tickLower": "BIGNUMERIC",
+        "tickUpper": "BIGNUMERIC",
+        "blockNumber": "BIGNUMERIC",
+        "timestamp": "TIMESTAMP",
+        "liquidity": "BIGNUMERIC",
+        "amountUSD": "BIGNUMERIC"
+    }
+}

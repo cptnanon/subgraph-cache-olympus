@@ -1,0 +1,13 @@
+{
+    "url": "https://gateway.thegraph.com/api/86cb68c78becc48a45a0e898f68aab9d/subgraphs/id/ELUcwgpm14LKPLrBRuVvPvNKHQ9HvwmtKgKSH6123cr7",
+    "object": "Swap",
+    "dateField": "timestamp",
+    "typeOverrides": {
+        "blockNumber": "BIGNUMERIC",
+        "timestamp": "TIMESTAMP",
+        "amountIn": "BIGNUMERIC",
+        "amountInUSD": "BIGNUMERIC",
+        "amountOut": "BIGNUMERIC",
+        "amountOutUSD": "BIGNUMERIC"
+    }
+}
