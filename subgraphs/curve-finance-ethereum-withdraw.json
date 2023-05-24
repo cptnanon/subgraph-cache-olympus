@@ -1,0 +1,11 @@
+{
+    "url": "https://gateway.thegraph.com/api/86cb68c78becc48a45a0e898f68aab9d/subgraphs/id/GAGwGKc4ArNKKq9eFTcwgd1UGymvqhTier9Npqo1YvZB",
+    "object": "Withdraw",
+    "dateField": "timestamp",
+    "typeOverrides": {
+        "blockNumber": "BIGNUMERIC",
+        "timestamp": "TIMESTAMP",
+        "outputTokenAmount": "BIGNUMERIC",
+        "amountUSD": "BIGNUMERIC"
+    }
+}

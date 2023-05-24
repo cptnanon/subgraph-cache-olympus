@@ -1,0 +1,16 @@
+{
+    "url": "https://api.thegraph.com/subgraphs/name/mariorz/sushiswap-arbitrum",
+    "object": "Swap",
+    "dateField": "timestamp",
+    "typeOverrides": {
+        "timestamp": "TIMESTAMP",
+        "sender": "STRING",
+        "amount0In": "BIGNUMERIC",
+        "amount1In": "BIGNUMERIC",
+        "amount0Out": "BIGNUMERIC",
+        "amount1Out": "BIGNUMERIC",
+        "to": "STRING",
+        "logIndex": "BIGNUMERIC",
+        "amountUSD": "BIGNUMERIC"
+    }
+}
